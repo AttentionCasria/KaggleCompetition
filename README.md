@@ -1,4 +1,4 @@
-# KaggleTree (Store Sales - Time Series Forecasting)
+# Store Sales - Time Series Forecasting (LightGBM)
 
 这是一个用于解决 Kaggle 上 **[Store Sales - Time Series Forecasting](https://www.kaggle.com/c/store-sales-time-series-forecasting)** 比赛的时间序列预测项目。该项目主要基于传统的机器学习（Machine Learning）技术，特别是利用 LightGBM（梯度提升决策树）模型，结合精细的时间序列特征工程，来实现对商店未来销售额的准确预测，而非使用深度学习模型。
 
